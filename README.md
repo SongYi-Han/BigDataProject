@@ -1,2 +1,3 @@
 # BigDataProject
-hands on project with big data technologies
+
+`project01` : build a data pipeline using Pyspark, Kfka and Redshift 
