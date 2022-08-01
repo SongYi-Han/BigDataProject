@@ -1,7 +1,8 @@
 # BigDataProject
 
-`project01` : build a data pipeline of ariline dataset using Pyspark, Kfka and Redshift   
-`Project02` : web server log processing using Hadoop and Azure VM
+`project01` : Build a data pipeline of ariline dataset using Pyspark, Kfka and Redshift   
+`Project02` : Web server log processing using Hadoop and Azure VM   
+`Project03` : Data Processing and Transformation in Hive using Azure VM  
 
 ## Dataset 
 #### Airline data
